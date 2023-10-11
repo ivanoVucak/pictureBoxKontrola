@@ -1,0 +1,11 @@
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\pictureBoxKontrola\bin\Debug\pictureBoxKontrola.exe.config
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\pictureBoxKontrola\bin\Debug\pictureBoxKontrola.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\pictureBoxKontrola\bin\Debug\pictureBoxKontrola.pdb
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\pictureBoxKontrola\obj\Debug\pictureBoxKontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\pictureBoxKontrola\obj\Debug\pictureBoxKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\pictureBoxKontrola\obj\Debug\pictureBoxKontrola.Form1.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\pictureBoxKontrola\obj\Debug\pictureBoxKontrola.Properties.Resources.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\pictureBoxKontrola\obj\Debug\pictureBoxKontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\pictureBoxKontrola\obj\Debug\pictureBoxKontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\pictureBoxKontrola\obj\Debug\pictureBoxKontrola.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\pictureBoxKontrola\obj\Debug\pictureBoxKontrola.pdb
